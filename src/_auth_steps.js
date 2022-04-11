@@ -9,6 +9,8 @@
  * 8. useCreateUserWithEmailAndPassword(auth) from react-firebase-hooks
  * 9. if user is created redirect to the expected page
  * 10. use useSignInWithEmailAndPassword(auth) for sign In
+ * 11. create requireAuth Components==> chekc user exists also track user locaktion
+ * 12. In Route Wrap proteced components by sing requeire auth components
  * 
  * 
  * 
